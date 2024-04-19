@@ -1,0 +1,25 @@
+{
+  "name": "Victor",
+  "Account": {
+    "AccountNumber": "00000000-0",
+    "AccountAgency": "0000",
+    "AccountBalance": 1234.56,
+    "AccountLimit": 10000.00
+  },
+  "features": [
+    {
+      "icon": "URL",
+      "sescription": "Descrição da feature."
+    }
+  ],
+  "card": {
+    "number": "xxxx xxxx xxxx 0000",
+    "limit": 1000.00
+  },
+  "news": [
+    {
+      "icon": "URL",
+      "sescription": "Descrição da news."
+    }
+  ]
+}
